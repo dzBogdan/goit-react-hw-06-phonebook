@@ -1,0 +1,36 @@
+.name__input{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.number__input{
+    margin-left: 30px;
+    
+}
+
+.phoneBook__button{
+    width: 260px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.filter__input{
+    width: 255px;
+}
+
+.list__item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact__list{
+    width: 600px;
+}
+.list__button{
+    width: 100px;
+    height: 20px;
+    margin-left: 50px;
+
+}
+
